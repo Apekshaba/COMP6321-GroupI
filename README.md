@@ -24,12 +24,12 @@ In the second phase (code can be found in the folder "Task-2") , custom-trained 
 * [Sklearn](https://scikit-learn.org/stable/), library with different ML models.
 
 ## Instructions to train/validate the model
-In the folder "Task-1" the jupyter notebook "NAME.ipynb" can be found. Please change the dataset path to where the dataset is. All the cells can be run at once to train and validate the model. All the plots will be generated and displayed. 
+In the folder "Task-1" the jupyter notebook "Scratch_model.ipynb" can be found. Please change the dataset path to where the dataset is. All the cells can be run at once to train and validate the model. All the plots will be generated and displayed. 
 
 Note: The code is made so it can run with GPU.
 
 ## Instructions on how to run the pre-trained model on the provided sample test dataset
-in the folder "Task-1" the jupyter notebook "NAME.ipynb" can be found. Please change the dataset path to where the dataset is. All the cells can be run at once to train and validate the model. All the plots will be generated and displayed. 
+in the folder "Task-1" the jupyter notebooks "Pretrained_Model__Approach1.ipynb" and "Pretrained_Model_Approach2.ipynb" can be found. Please change the dataset path to where the dataset is. All the cells can be run at once to train and validate the model. All the plots will be generated and displayed. 
 
 ## Available download link
 
