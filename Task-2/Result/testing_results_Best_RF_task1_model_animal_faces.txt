@@ -1,0 +1,17 @@
+Testing Data Results:
+Accuracy: 0.9322222222222222
+Confusion Matrix:
+[[573  15  17]
+ [ 13 576  25]
+ [ 24  28 529]]
+Classification Report:
+              precision    recall  f1-score   support
+
+         cat       0.94      0.95      0.94       605
+         dog       0.93      0.94      0.93       614
+        wild       0.93      0.91      0.92       581
+
+    accuracy                           0.93      1800
+   macro avg       0.93      0.93      0.93      1800
+weighted avg       0.93      0.93      0.93      1800
+
