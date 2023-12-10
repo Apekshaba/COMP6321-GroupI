@@ -20,7 +20,7 @@ In the second phase (code can be found in the folder "Task-2") , custom-trained 
 * [Numpy](http://www.numpy.org), the core numerical extensions for linear algebra and multidimensional arrays;
 * [Matplotlib](http://matplotlib.sf.net), excellent plotting and graphing libraries;
 * [Pandas](http://pandas.pydata.org/), library to read files has a dataframe;
-* [Pytorch](https://pytorch.org/docs/stable/torch.html), library for Deep neural network models and Tenssor computation with strong GPU acceleration.
+* [Pytorch](https://pytorch.org/docs/stable/torch.html), library for Deep neural network models and Tenssor computation with strong GPU acceleration;
 * [Sklearn](https://scikit-learn.org/stable/), library with different ML models.
 
 ## Instructions to train/validate the model
