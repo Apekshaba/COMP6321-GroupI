@@ -33,4 +33,4 @@ in the folder "Task-1" the jupyter notebooks "Pretrained_Model__Approach1.ipynb"
 
 ## Available download link
 
-[Download link](https://www.google.com/)
+[Download link](https://drive.google.com/drive/folders/16mDfHkz3ojB8gJG11oJ9uN-93xq2GAyT?usp=sharing)
