@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+         MUS       0.88      0.85      0.87     60000
+        NORM       0.94      0.95      0.94     60000
+         STR       0.84      0.85      0.85     60000
+
+    accuracy                           0.88    180000
+   macro avg       0.88      0.88      0.88    180000
+weighted avg       0.88      0.88      0.88    180000
