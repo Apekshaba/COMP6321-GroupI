@@ -1,0 +1,17 @@
+Testing Data Results:
+Accuracy: 0.9422222222222222
+Confusion Matrix:
+[[555  20  14]
+ [ 46 571   3]
+ [ 21   0 570]]
+Classification Report:
+              precision    recall  f1-score   support
+
+       gland       0.89      0.94      0.92       589
+    nongland       0.97      0.92      0.94       620
+       tumor       0.97      0.96      0.97       591
+
+    accuracy                           0.94      1800
+   macro avg       0.94      0.94      0.94      1800
+weighted avg       0.94      0.94      0.94      1800
+

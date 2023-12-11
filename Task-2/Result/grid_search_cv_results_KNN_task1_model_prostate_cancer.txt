@@ -1,0 +1,13 @@
+Hyperparameters	Train_Accuracy	Test_Accuracy
+{'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}	0.9604	0.9302
+{'n_neighbors': 3, 'p': 1, 'weights': 'distance'}	1.0000	0.9300
+{'n_neighbors': 3, 'p': 2, 'weights': 'uniform'}	0.9641	0.9345
+{'n_neighbors': 3, 'p': 2, 'weights': 'distance'}	1.0000	0.9348
+{'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}	0.9507	0.9305
+{'n_neighbors': 5, 'p': 1, 'weights': 'distance'}	1.0000	0.9310
+{'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}	0.9541	0.9295
+{'n_neighbors': 5, 'p': 2, 'weights': 'distance'}	1.0000	0.9300
+{'n_neighbors': 7, 'p': 1, 'weights': 'uniform'}	0.9444	0.9295
+{'n_neighbors': 7, 'p': 1, 'weights': 'distance'}	1.0000	0.9295
+{'n_neighbors': 7, 'p': 2, 'weights': 'uniform'}	0.9489	0.9343
+{'n_neighbors': 7, 'p': 2, 'weights': 'distance'}	1.0000	0.9345

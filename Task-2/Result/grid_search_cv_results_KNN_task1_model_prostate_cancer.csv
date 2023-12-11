@@ -1,0 +1,13 @@
+hyperparameters,train_accuracy,test_accuracy
+"{'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}",0.9603703703703704,0.9302380952380952
+"{'n_neighbors': 3, 'p': 1, 'weights': 'distance'}",1.0,0.93
+"{'n_neighbors': 3, 'p': 2, 'weights': 'uniform'}",0.964126984126984,0.9345238095238095
+"{'n_neighbors': 3, 'p': 2, 'weights': 'distance'}",1.0,0.9347619047619047
+"{'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}",0.9507407407407408,0.9304761904761906
+"{'n_neighbors': 5, 'p': 1, 'weights': 'distance'}",1.0,0.930952380952381
+"{'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}",0.9541269841269842,0.9295238095238094
+"{'n_neighbors': 5, 'p': 2, 'weights': 'distance'}",1.0,0.93
+"{'n_neighbors': 7, 'p': 1, 'weights': 'uniform'}",0.9443650793650793,0.9295238095238096
+"{'n_neighbors': 7, 'p': 1, 'weights': 'distance'}",1.0,0.9295238095238096
+"{'n_neighbors': 7, 'p': 2, 'weights': 'uniform'}",0.9489417989417991,0.9342857142857144
+"{'n_neighbors': 7, 'p': 2, 'weights': 'distance'}",1.0,0.9345238095238095

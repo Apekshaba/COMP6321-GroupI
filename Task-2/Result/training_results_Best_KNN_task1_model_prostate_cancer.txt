@@ -1,0 +1,17 @@
+Training Data Results:
+Accuracy: 1.0
+Confusion Matrix:
+[[1411    0    0]
+ [   0 1380    0]
+ [   0    0 1409]]
+Classification Report:
+              precision    recall  f1-score   support
+
+       gland       1.00      1.00      1.00      1411
+    nongland       1.00      1.00      1.00      1380
+       tumor       1.00      1.00      1.00      1409
+
+    accuracy                           1.00      4200
+   macro avg       1.00      1.00      1.00      4200
+weighted avg       1.00      1.00      1.00      4200
+
